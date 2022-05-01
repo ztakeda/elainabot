@@ -1,0 +1,13 @@
+{
+  "ownerNumber": ["6285704347763@s.whatsapp.net"],
+  "ownerName": ["y"],
+  "botName": "Elaina Bot",
+  "sessionName": "BijiPeler",
+  "pathimg": "./media/elaina.jpg",
+  "gamewaktu": 90,
+  "limitCount": 25,
+  "gcount": {
+	"prem": 35,
+	"user": 15
+  }
+}
